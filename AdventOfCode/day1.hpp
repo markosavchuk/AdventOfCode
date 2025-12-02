@@ -1,7 +1,6 @@
 #ifndef day1_hpp
 #define day1_hpp
 
-#include <stdio.h>
 #include <string>
 
 namespace Day1
